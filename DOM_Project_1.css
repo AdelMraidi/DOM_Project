@@ -1,0 +1,16 @@
+html {
+  max-width: 500px;
+  margin: auto;
+}
+
+#image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#coeur,
+button {
+  cursor: pointer;
+}
